@@ -2,12 +2,19 @@ body{
     background-color: antiquewhite;
 }
 
+
+.col-4 img{
+    text-align: center;
+    height:300px;
+    width:300px;
+}
+
 .col-12 img{
-    height: 500px;
+    height:400px;
     width: 100%;
 }
 
-.col-4 img{
-    width:fit-content;
-    height: 200px;
+.mid{
+    margin: 20px 130px;
+    text-align: center;
 }
