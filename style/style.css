@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+}
+
+.col-12 img{
+    height: 500px;
+    width: 100%;
+}
+
+.col-4 img{
+    width:fit-content;
+    height: 200px;
+}
