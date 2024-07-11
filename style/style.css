@@ -1,20 +1,37 @@
-body{
-    background-color: antiquewhite;
-}
-
 
 .col-4 img{
     text-align: center;
-    height:300px;
-    width:300px;
+    height:200px;
+    width:200px;
 }
 
 .col-12 img{
     height:400px;
-    width: 100%;
+    width: 80%;
+    margin-right:100px;
+    margin-top: 0px;
+    padding: 0px 200px;
+    background-color: rgb(62, 176, 176);
 }
 
 .mid{
     margin: 20px 130px;
+    text-align: center;
+}
+
+.col-12 p{
+    text-align: center;
+    margin-right: 600px;
+    z-index: 1;
+}
+
+header{
+    background-color: rgb(35, 35, 38);
+    color: white;
+    margin: 0px;
+    padding:0px;
+}
+
+header p{
     text-align: center;
 }
